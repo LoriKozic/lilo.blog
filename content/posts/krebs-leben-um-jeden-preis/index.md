@@ -34,7 +34,7 @@ Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fin
 
 Frauenklinik, Inselspital, der Raum mit den ausschliesslich weissen Möbeln erstrahlt in hellem Licht. Dr. med. Rabaglio kommt zur Tür hinein, unter dem Arm ein ebenfalls weisses Klemmbrett. «Die Idee, dass man Krebs mehr und mehr heilen kann, faszinierte mich». Rabaglio arbeitet seit mehr als 20 Jahren im Fachgebiet der Onkologie, täglich befasst sie sich mit Brustkrebs PatientInnen. Richtig, Patienten und Patientinnen, Rabaglio verweist darauf, dass auch Männer an Brustkrebs erkranken können, jedoch ist die Erkrankung bei Männern sehr selten. 
 
-![Dr. med. Manuela Rabaglio](rabaglio.jpg)
+![Dr. med. Manuela Rabaglio](rabaglio_check.jpg)
 
 Im Alltag ist Manuela Rabaglio mit vielerlei Tätigkeiten beschäftigt «Ich erstelle Therapiepläne, diese werden meist in Zyklen geführt. Es werden Infusionen und Medikamente verabreicht, Blutwerte/ Nebenwirkungen kontrolliert. Neue Patient\*innen werden einer Biopsie unterzogen, um den auf sie zugeschnittenen Therapieplan, erstellen zu können». Während einer Biopsie findet man zum Beispiel heraus, ob ein/e Patient\*in Hormonrezeptor positiv oder negativ ist. Positiv bedeutet, die Hormone Östrogen und Progesteron können an die Rezeptoren binden, dies wiederum fördert das Krebswachstum. «Durch den Krebs bin ich Salatliebhaberin geworden» Ute und Sabine verzichten auf übermässigen Fleischkonsum, Milch sei nicht mehr in ihren Kühlschränken vorzufinden, denn sowohl Fleisch als auch Milch enthalten die oben genannten Hormone.
 

@@ -1,7 +1,7 @@
 +++
 title = "Krebs, Leben um jeden Preis?"
 date = "2023-04-04"
-draft = true
+draft = false
 pinned = true
 description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben."
 +++

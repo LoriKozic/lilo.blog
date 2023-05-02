@@ -25,6 +25,8 @@ die «Fingerabdruckmethode» schmerzlos zeitsparend und nicht-invasiv. Bei der M
 Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. 
 Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit 
 höhere Chancen auf eine Heilung.
+
+{{</box>}}
 ```
 
 ## Therapie

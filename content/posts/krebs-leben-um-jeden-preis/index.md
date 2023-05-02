@@ -46,7 +46,7 @@ Es gibt auch Patient*innen, die sich nicht behandeln lassen wollen: «In einem s
 
 «Vogelzwitschern, der frühe Morgen, mein Liebster an meiner Seite, und wir geniessen zusammen einen Latte Macchiato», das war es, was Ute in dieser Woche glücklich machte: «Was gibt es denn Schöneres? Alle meinten dann zu mir: ‘Wow Ute, du bist ein Phänomen! ’» 
 
-«Ich würde je nach Situation vorgehen; wenn ich weiss, dass eine weitere Behandlung nur Nebenwirkungen mit sich bringt, werde ich meinen Patient\*innen definitiv raten darauf zu verzichten», erklärt Dr. Rabaglio. Anders als bei Sabine und Ute gibt es Patient\*innen, bei denen der Krebs schon so stark fortgeschritten ist, dass Behandlungen mehr Nebenwirkungen, als die Chance auf Heilung mit sich bringen. Supportive Mittel werden in diesem Fall eingesetzt, um die verbleibende Zeit bestmöglich überstehen zu können. 
+«Ich würde je nach Situation vorgehen; wenn ich weiss, dass eine weitere Behandlung nur Nebenwirkungen mit sich bringt, werde ich meinen Patient\*innen definitiv raten darauf zu verzichten», erklärt Dr. Rabaglio. Anders als bei Sabine und Ute gibt es Patient\*innen, bei denen der Krebs schon so stark fortgeschritten ist, dass Behandlungen mehr Nebenwirkungen, als die Chance auf Heilung mit sich bringen. Supportive Mittel werden in diesem Fall eingesetzt, um die verbleibende Zeit bestmöglich zu überstehen. 
 
 ## Verbreitet den Krebs in den Medien!
 

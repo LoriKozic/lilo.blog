@@ -58,6 +58,8 @@ Sabine gründete in Stryker ihre eigene Selbsthilfe Gruppe: «Die Krankheit soll
 
 Als Ute diagnostiziert wurde und nachdem sie ihren Tumor herausoperiert hatte, gab es die Möglichkeit einen sogenannten Zukunftstest durchzuführen, der die Wahrscheinlichkeit eines Rezidivs anzeigt. Da diese Prozentzahl bei Ute hoch war, führte sie nach der Operation noch eine Chemotherapie durch. Sabine wurde andererseits schon diagnostiziert, bevor der Zukunftstest vorhanden war. Heute besteht jedoch die Gelegenheit sich testen zu lassen. Sabine hat sich gefragt, ob sie wissen will, wie gross die Chance auf einen Rückfall ist und ob sie dann auch nochmals eine Therapie durchführen würde. Lange hat sie sich mit der Frage auseinandergesetzt und schlussendlich entschieden, es nicht zu tun. Sie fühlt sich in ihrer jetzigen Situation mit den regelmässigen Kontrollen wohl und ist zufrieden, wo sie jetzt steht. Denn während wir diese Reportage vervollständigen, ist sie in Sri Lanka unterwegs auf einem Wellness Trip! 
 
+
+
 > # *«Es war unser Kampf!»*
 
 ## Heilung

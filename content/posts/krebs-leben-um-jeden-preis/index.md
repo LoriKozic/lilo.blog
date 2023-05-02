@@ -51,17 +51,15 @@ Es gibt auch Patient*innen, die sich nicht behandeln lassen wollen: «In einem s
 
 Sabine gründete in Stryker ihre eigene Selbsthilfe Gruppe: «Die Krankheit soll nicht tabuisiert werden.» Sabine und Ute hatten sich beide durchs Internet gefressen, um alles über den Krebs zu erfahren. Durch ihre Recherchen fand Sabine einen Booster, von dem sie ihren Ärzt*innen berichtete und nach dessen Einführung, ihre Therapie von 28 auf 18 Bestrahlungen reduziert wurde. Wenn sich die Menschen mehr austauschen würden, wären solche Ratschläge bekannter. Man kann über Diagnosen oder Statistiken sprechen, aber die eigene Geschichte zu teilen, bringt die Menschen zusammen und motiviert dabei, sich ihren Herausforderungen zu stellen. «Leute sind froh, wenn man mit ihnen spricht, auch wenn die Worte fehlen», erklärt Sabine. Beide wünschten sich bei diesem Thema mehr Präsenz in den Medien. 
 
-### Krebs-Prognosetest 
+### Krebs-Prognosetest
 
 Als Ute diagnostiziert wurde und nachdem sie ihren Tumor herausoperiert hatte, gab es die Möglichkeit einen sogenannten Zukunftstest durchzuführen, der die Wahrscheinlichkeit eines Rezidivs anzeigt. Da diese Prozentzahl bei Ute hoch war, führte sie nach der Operation noch eine Chemotherapie durch. Sabine wurde andererseits schon diagnostiziert, bevor der Zukunftstest vorhanden war. Heute besteht jedoch die Gelegenheit sich testen zu lassen. Sabine hat sich gefragt, ob sie wissen will, wie gross die Chance auf einen Rückfall ist und ob sie dann auch nochmals eine Therapie durchführen würde. Lange hat sie sich mit der Frage auseinandergesetzt und schlussendlich entschieden, es nicht zu tun. Sie fühlt sich in ihrer jetzigen Situation mit den regelmässigen Kontrollen wohl und ist zufrieden, wo sie jetzt steht. Denn während wir diese Reportage vervollständigen, ist sie in Sri Lanka unterwegs auf einem Wellness Trip! 
 
 
 
-> # *«Es war unser Kampf!»* 
+> # *«Es war unser Kampf!»*
 
-
-
-## Heilung 
+## Heilung
 
 Nachdem Sabines letzte Bestrahlung vorbei war, liess ihr Chef ihr Team aus ganz Europa nach Amsterdam einfliegen, wo sie beruflich gerade unterwegs war. «Ich habe erst mal geweint wie ein Schosshund», sie freute sich wieder da zu sein. Nach einer langen und schwierigen Zeit mit zahlreichen Therapien und vielen Gesprächen mit Ärzten\*innen ist der Tag gekommen, auf den alle Krebspatient\*innen seit dem Tag der Diagnose warten. Der Tag, an dem die Behandlung endlich vorbei ist und sie wieder ihrem Alltag nachgehen können. 
 

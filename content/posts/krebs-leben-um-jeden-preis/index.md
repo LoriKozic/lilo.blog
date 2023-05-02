@@ -4,7 +4,7 @@ date = "2023-04-04"
 draft = false
 pinned = true
 image = "susan-g-komen-3-day-qfwmuxdcn18-unsplash-1-1-1-1-.jpg"
-description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben."
+description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? "
 +++
 {{<lead>}}
 

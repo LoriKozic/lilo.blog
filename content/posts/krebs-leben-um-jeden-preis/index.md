@@ -5,7 +5,11 @@ draft = true
 pinned = true
 description = "Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben."
 +++
-###### Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben.
+{{<lead>}}
+
+Sabine und Ute haben den Brustkrebs erfolgreich bekämpft, doch soll man in jedem Fall therapieren? Diese Reportage soll Aufschluss über die Reise mit dem Krebs und den zusammenhängenden Umständen geben.
+
+{{</lead>}}
 
 ## Diagnose
 
@@ -13,21 +17,13 @@ Dreissig Prozent. Nachts lag ich schlaflos im Bett, starrte an die Decke und dac
 
 Ute war 52 Jahre alt, als sie einen 1-2 cm grossen Knoten in ihrer rechten Brust erfühlte, mit böser Vorahnung liess sie sich von einer Onkologin untersuchen. «Als ich mit der Krankheit Krebs diagnostiziert wurde, fühlte es sich an, als würde mir der Boden unter den Füssen weggezogen, man steht vor einem langen Prozess, der viel Kraft und Willensstärke fordert.» Der Brustkrebs, medizinisch das Mammakarzinom, ist die häufigste Krebserkrankung bei Frauen. In der Schweiz erkranken jährlich 6300 Frauen. Krebszellen breiten sich unkontrolliert in der Brustdrüse aus, dabei unterscheidet man zwischen invasivem und nicht-invasivem Brustkrebs, invasiv bedeutet, die Krebszellen sind ins Nachbargewebe eingedrungen, Ute hatte einen nicht-invasiven Krebs, das heisst es liegt eine örtlich begrenzte Vorstufe des Brustkrebses vor. Ute versuchte viele wertvolle Informationen über die Krankheit Krebs zu bekommen, um die Angst, die sie vor dem Krebs hatte, in Respekt umzuwandeln. Dies ist und war sehr wichtig für ihren Umgang mit der Krankheit, denn Angst, Ungewissheit seien sehr unangenehme Begleiter. «Kenne deinen Feind», ist unter Ärzt: Innen ein altbekannter Spruch, um den Krebs heilen zu können, muss man ihn, mit all seinen Tücken, vollständig verstehen.
 
-```
 {{<box title="Info Kasten: Fortschritte in der Krebsforschung">}}
 
-Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fingerabdruck erkennbar». 
-Wissenschaftler*innen haben eine Methode entwickelt, die eine schnelle und effiziente Diagnose von Brustkrebs ermöglicht. 
-Anhand des Schweisses am Finger lassen sich Biomarker erkennen, welche auf Brustkrebs hindeuten. 
-Biomarker sind charakteristische biologische Merkmale, die als Referenz für Krankheiten verwendet werden können. 
-Die Methode hat eine Genauigkeit von 97.8% und im Vergleich zur herkömmlichen Diagnosemethode Mammografie ist 
-die «Fingerabdruckmethode» schmerzlos zeitsparend und nicht-invasiv. Bei der Mammografie werden Patient*innen der 
-Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. 
-Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit 
-höhere Chancen auf eine Heilung.
+Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fingerabdruck erkennbar». Wissenschaftler\*innen haben eine Methode entwickelt, die eine schnelle und effiziente Diagnose von Brustkrebs ermöglicht. Anhand des Schweisses am Finger lassen sich Biomarker erkennen, welche auf Brustkrebs hindeuten. Biomarker sind charakteristische biologische Merkmale, die als Referenz für Krankheiten verwendet werden können. Die Methode hat eine Genauigkeit von 97.8% und im Vergleich zur herkömmlichen Diagnosemethode Mammografie ist die «Fingerabdruckmethode» schmerzlos zeitsparend und nicht-invasiv. Bei der Mammografie werden Patient\*innen der Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit höhere Chancen auf eine Heilung.
+
+![Die Brust in verschiedenen Krebsstufen](screenshot-2023-05-02-160415.png)
 
 {{</box>}}
-```
 
 ## Therapie
 

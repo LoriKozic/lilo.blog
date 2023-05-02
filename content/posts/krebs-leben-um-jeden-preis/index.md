@@ -16,11 +16,15 @@ Ute war 52 Jahre alt, als sie einen 1-2 cm grossen Knoten in ihrer rechten Brust
 ```
 {{<box title="Ausklappbare Box">}}
 
-Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fingerabdruck erkennbar». Wissenschaftler*innen haben eine Methode entwickelt, die eine schnelle und effiziente Diagnose von Brustkrebs ermöglicht. Anhand des Schweisses am Finger lassen sich Biomarker erkennen, 
-welche auf Brustkrebs hindeuten. Biomarker sind charakteristische biologische Merkmale, die als 
-Referenz für Krankheiten verwendet werden können. Die Methode hat eine Genauigkeit von 97.8% 
-und im Vergleich zur herkömmlichen Diagnosemethode Mammografie ist die «Fingerabdruckmethode» schmerzlos zeitsparend und nicht-invasiv. Bei der Mammografie werden Patient*innen der 
-Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit höhere Chancen auf eine Heilung.
+Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fingerabdruck erkennbar». 
+Wissenschaftler*innen haben eine Methode entwickelt, die eine schnelle und effiziente Diagnose von Brustkrebs ermöglicht. 
+Anhand des Schweisses am Finger lassen sich Biomarker erkennen, welche auf Brustkrebs hindeuten. 
+Biomarker sind charakteristische biologische Merkmale, die als Referenz für Krankheiten verwendet werden können. 
+Die Methode hat eine Genauigkeit von 97.8% und im Vergleich zur herkömmlichen Diagnosemethode Mammografie ist 
+die «Fingerabdruckmethode» schmerzlos zeitsparend und nicht-invasiv. Bei der Mammografie werden Patient*innen der 
+Strahlenbelastung ausgesetzt, was oft als unangenehm wahrgenommen wird. 
+Brustkrebs früh zu erkennen, ist von enormer Wichtigkeit, denn nur so kann man frühzeitig reagieren und hat somit 
+höhere Chancen auf eine Heilung.
 ```
 
 ## Therapie

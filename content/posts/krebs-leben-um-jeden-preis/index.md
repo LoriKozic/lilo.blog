@@ -32,7 +32,7 @@ Die neuste Studie eines englischen Forschungsteams zeigt «Brustkrebs ist am Fin
 
 «Das Erste, was mir der Frauenarzt gab, war eine Visitenkarte eines Perückenmachers» Sabine erklärt, dass es auch Leute gab, die nicht mit ihrer Diagnose umgehen konnten. Umso wichtiger war für sie zu sehen, dass es Leute gab, die immer anriefen, unabhängig davon, ob es ihr gerade gut oder schlecht ging. Sie habe gemerkt, wer zu ihr steht. «Meine Töchter und mein Mann waren eine grosse Hilfe.»
 
-Frauenklinik, Inselspital, der Raum mit den ausschliesslich weissen Möbeln erstrahlt in hellem Licht. Dr. med. Rabaglio kommt zur Tür hinein, unter dem Arm ein ebenfalls weisses Klemmbrett. «Die Idee, dass man Krebs mehr und mehr heilen kann, faszinierte mich». Rabaglio arbeitet seit mehr als 20 Jahren im Fachgebiet der Onkologie, täglich befasst sie sich mit Brustkrebs PatientInnen. Richtig, Patienten und Patientinnen, Rabaglio verweist darauf, dass auch Männer an Brustkrebs erkranken können, jedoch ist die Erkrankung bei Männern sehr selten. 
+Frauenklinik, Inselspital, der Raum mit den ausschliesslich weissen Möbeln erstrahlt in hellem Licht. Dr. med. Rabaglio kommt zur Tür hinein, unter dem Arm ein ebenfalls weisses Klemmbrett. «Die Idee, dass man Krebs mehr und mehr heilen kann, faszinierte mich». Rabaglio arbeitet seit mehr als 20 Jahren im Fachgebiet der Onkologie, täglich befasst sie sich mit Brustkrebs Patient*innen. Richtig, Patienten und Patientinnen, Rabaglio verweist darauf, dass auch Männer an Brustkrebs erkranken können, jedoch ist die Erkrankung bei Männern sehr selten. 
 
 ![Dr. med. Manuela Rabaglio](rabaglio_check.jpg)
 
